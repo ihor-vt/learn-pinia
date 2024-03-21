@@ -6,4 +6,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
 
-![Screenshot](https://github.com/ihor-vt/learn-pinia/favorite-movies/public/Screenshot.png)
+![Screenshot](https://github.com/ihor-vt/learn-pinia/blob/main/favorite-movies/public/Screenshot.png)
